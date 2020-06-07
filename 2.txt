@@ -3,4 +3,7 @@ Druga linijka dodana
 Trzecia llllll
 
 Czwarta linia
-Add 5 line
+
+
+Add 6 line
+Add 7
