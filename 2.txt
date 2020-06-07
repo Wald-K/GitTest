@@ -1,3 +1,5 @@
 Pierwsza linijka dodana
 Druga linijka dodana
 Trzecia llllll
+
+Czwarta linia
